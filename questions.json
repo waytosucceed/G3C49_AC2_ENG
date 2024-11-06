@@ -1,0 +1,219 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "Which contraction is correct for <br>\"they are\"?",
+    "options": [
+      "they're",
+      "theyre",
+      "their"
+    ],
+    "correct": 0,
+    "explanation": "The contraction for \"they are\" is \"they're\". We remove the \"a\" from \"are\" and replace it with an apostrophe ('). The apostrophe shows where letters have been removed."
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "What two words make up the contraction <br>\"isn't\"?",
+    "options": [
+      "is it",
+      "is not",
+      "in not"
+    ],
+    "correct": 1,
+    "explanation": "The contraction \"isn't\" is made from \"is not\". We remove the \"o\" from \"not\" and replace it with an apostrophe. This is a common contraction used to make a negative statement."
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "Choose the correct contraction for <br>\"I am\":",
+    "options": [
+      "I'm",
+      "Im’",
+      "Iam"
+    ],
+    "correct": 0,
+    "explanation": "The correct contraction for \"I am\" is \"I'm\". We remove the \"a\" from \"am\" and replace it with an apostrophe. This is one of the most common contractions used in everyday speech and writing."
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "Which is the correct contraction of<br> \"we will\"?",
+    "options": [
+      "we'll",
+      "wel’l",
+      "we’l"
+    ],
+    "correct": 0,
+    "explanation": "The correct contraction for \"we will\" is \"we'll\". We remove \"wi\" from \"will\" and replace it with an apostrophe. This contraction is often used when talking about future actions."
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "What does the contraction <br>\"don't\" stand for?",
+    "options": [
+      "does not",
+      "do not"
+    ],
+    "correct": 1,
+    "explanation": "The contraction \"don't\" stands for \"do not\". We remove the \"o\" from \"not\" and replace it with an apostrophe."
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "What is the contraction for<br> \"it is\"?",
+    "options": [
+      "its",
+      "it's",
+      "its'"
+    ],
+    "correct": 1,
+    "explanation": "The correct contraction for \"it is\" is \"it's\". We remove the \"i\" from \"is\" and replace it with an apostrophe."
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "Choose the correct contraction for<br> \"you are\":",
+    "options": [
+      "your",
+      "you're",
+      "youre"
+    ],
+    "correct": 1,
+    "explanation": "The correct contraction for \"you are\" is \"you're\". We remove the \"a\" from \"are\" and replace it with an apostrophe."
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "What two words make up the contraction <br>\"can't\"?",
+    "options": [
+      "cannot",
+      "can it"
+    ],
+    "correct": 0,
+    "explanation": "The contraction \"can't\" is made from \"cannot\". We remove \"no\" from \"cannot\" and replace it with an apostrophe."
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "Which is the correct contraction of <br>\"they have\"?",
+    "options": [
+      "they've",
+      "theyv’e",
+      "they’have"
+    ],
+    "correct": 0,
+    "explanation": "The correct contraction for \"they have\" is \"they've\". We remove \"ha\" from \"have\" and replace it with an apostrophe."
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "What does the contraction<br> \"won't\" stand for?",
+    "options": [
+      "will not",
+      "were not"
+    ],
+    "correct": 0,
+    "explanation": "The contraction \"won't\" stands for \"will not\". This is an irregular contraction where \"will\" changes to \"wo\" when combined with \"not\"."
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "Choose the correct spelling:",
+    "options": [
+      "Vehcle",
+      "Vehicel",
+      "Vehicle"
+    ],
+    "correct": 2,
+    "explanation": "The correct spelling is \"V-E-H-I-C-L-E.\" A vehicle is something that helps people or things move from one place to another. It can be something like a car, bus, bicycle, or even a train."
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Look at the image and choose the correct sentence: <br> <img src='./aeroplane.png' width='150px'/>",
+    "options": [
+      "The ship is ready for sail.",
+      "The aeroplane is taking off.",
+      "The airplane is landing."
+    ],
+    "correct": 1,
+    "explanation": "Since the image shows an aeroplane taking off, this sentence accurately describes the action in the picture. The other options refer to different situations (a ship sailing and an aeroplane landing), which are not shown in the image."
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "Choose the correct contraction for<br> \"he is\":",
+    "options": [
+      "he's",
+      "h’es",
+      "hi’s"
+    ],
+    "correct": 0,
+    "explanation": "The correct contraction for \"he is\" is \"he's\". We remove the \"i\" from \"is\" and replace it with an apostrophe."
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "What is the contraction for <br>\"we are\"?",
+    "options": [
+      "wer’e",
+      "we're",
+      "we’ar"
+    ],
+    "correct": 1,
+    "explanation": "The correct contraction for \"we are\" is \"we're\". We remove the \"a\" from \"are\" and replace it with an apostrophe."
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "What two words make up the contraction<br> \"didn't\"?",
+    "options": [
+      "did it",
+      "did not",
+      "do not"
+    ],
+    "correct": 1,
+    "explanation": "The contraction \"didn't\" is made from \"did not\". We remove the \"o\" from \"not\" and replace it with an apostrophe."
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "Fill in the blank:<br> _____ going to the party.",
+    "options": [
+      "Didn't",
+      "Isn't",
+      "I'm"
+    ],
+    "correct": 2,
+    "explanation": "Complete sentence: I'm going to the party. \"I'm\" is a contraction for \"I am,\" which is the correct way to express that you are going to the party."
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Fill in the blank:<br> We ____ go to the school because it is raining heavily.",
+    "options": [
+      "can't",
+      "Isn't",
+      "You're"
+    ],
+    "correct": 0,
+    "explanation": "Complete sentence: We can't go to the school because it is raining heavily. \"Can't\" is a contraction for \"cannot,\" which shows that it is not possible to go to school due to heavy rain."
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "What two words make up the contraction<br> \"hasn't\"?",
+    "options": [
+      "has it",
+      "have not",
+      "has not"
+    ],
+    "correct": 2,
+    "explanation": "The contraction \"hasn't\" is made from \"has not\". We remove the \"o\" from \"not\" and replace it with an apostrophe."
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Which contraction is correct for<br> \"we have\"?",
+    "options": [
+      "we've",
+      "wev’e",
+      "we’have"
+    ],
+    "correct": 0,
+    "explanation": "The correct contraction for \"we have\" is \"we've\". We remove \"ha\" from \"have\" and replace it with an apostrophe."
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "What is the contraction for <br>\"were not\"?",
+    "options": [
+      "were'nt",
+      "weren't",
+      "werent"
+    ],
+    "correct": 1,
+    "explanation": "The correct contraction for \"were not\" is \"weren't\". We remove the \"o\" from \"not\" and replace it with an apostrophe."
+  }
+]
